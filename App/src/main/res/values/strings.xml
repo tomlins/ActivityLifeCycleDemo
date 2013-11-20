@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityLifeCycleDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Quit, you monkey</string>
+
+    <string name="list_item_1">This face rocks</string>
+    <string name="list_item_2">This face breaks rocks</string>
+    <string name="list_item_3">Throw rocks at this face</string>
+
+    <string name="dialog_title">Thanks for you input!</string>
+    <string name="dialog_resonse_1">I know it</string>
+    <string name="dialog_resonse_2">So does yours</string>
+    <string name="dialog_resonse_3">I didnt say Jehova</string>
+    <string name="dialog_close">Close</string>
+
+</resources>
